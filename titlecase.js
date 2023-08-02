@@ -1,4 +1,5 @@
 // *******2.Convert all the strings to title caps in a string array **********
+
 // 3.Sum of all numbers in an array   
 // 4.Return all the palindromes in an array
 

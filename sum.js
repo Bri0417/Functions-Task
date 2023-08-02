@@ -1,5 +1,6 @@
 
 // ********** 3.Sum of all numbers in an array ***********
+
 // *-- Basic function --*
 // let array = [2,3,4,5,6,7,8]
 // function SumOfArray(array){
